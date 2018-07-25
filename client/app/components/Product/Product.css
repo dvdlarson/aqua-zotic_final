@@ -1,0 +1,11 @@
+.productCard {
+   background: rgb(5, 185, 240);
+   margin: 1em;
+}
+
+.productCard .card-img-top {
+   align-self: center;
+   display: flex;
+   max-width: 50%;
+   margin: .5em;
+}

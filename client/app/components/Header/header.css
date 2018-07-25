@@ -1,0 +1,18 @@
+.header-banner {
+    background-color: rgb(184, 217, 245);
+      background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/78/33/2657c1392919bca.jpg");
+      /* background-repeat: repeat; */
+      color: black;
+      min-height: 400px;
+      padding: 180px 20px; 
+      font-family: 'Merienda', cursive;
+      font-family: 'Milonga', cursive;
+      font-family: 'Peralta', cursive;
+      padding-bottom:20px;
+      text-align: center;
+}
+.header-banner h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 4rem;
+  }

@@ -1,0 +1,21 @@
+
+
+.contact {
+      
+      background-image: url("http://www.grondwatercollectief.nl/wp-content/uploads/2015/03/water-splash.jpg");
+      height: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around;
+      align-content: flex-start;
+      overflow: auto;
+      background-size: cover;
+      background-position: center;
+      background-repeat:no-repeat;
+      color:#7CC6D9;
+      font-family: 'Merienda', cursive;
+      font-family: 'Milonga', cursive;
+  
+    }
+
+  

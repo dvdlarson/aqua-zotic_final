@@ -1,0 +1,26 @@
+.admin {
+      padding-top: 200px;
+      background: rgba(217, 234, 238, 0.521);
+      background-image: url("https://www.guidepost3d.com/wp-content/uploads/2017/08/best-substrate-for-planted-fish-tanks-1.jpg");
+      height: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      padding-right: 20px;
+      justify-content: space-around;
+      align-content: flex-start;
+      overflow: auto;
+      background-size: cover;
+      background-position: center;
+      background-repeat:no-repeat;
+    }
+
+    .productform {
+      padding-left: 100px;
+      padding-right:25px;
+      padding-bottom: 90px;
+      margin: 60px;
+      border: rgba(34, 163, 192, 0.521) 3px groove;
+      padding-top:30px;
+      background-color: white;
+      
+    }

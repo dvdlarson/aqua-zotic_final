@@ -1,0 +1,19 @@
+.fishgallery {
+      padding-top: 50px;
+      background: rgba(217, 234, 238, 0.521);
+      height: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      padding: 40px;
+      justify-content: space-around;
+      align-content: flex-start;
+      font-family: 'Merienda', cursive;
+      font-family: 'Milonga', cursive;
+     
+      overflow: auto;
+    }
+    
+   .frame{
+    border: rgba(34, 163, 192, 0.521) 2px groove;
+    padding:20px;
+   }

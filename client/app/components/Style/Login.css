@@ -1,0 +1,23 @@
+.login {
+      padding-top: 50px;
+      background: rgba(217, 234, 238, 0.521);
+      height: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      padding: 40px;
+      justify-content: space-around;
+      align-content: flex-start;
+      overflow: auto;
+    }
+
+.auth-org-logo {
+  background: url ('logo.png');
+}
+
+.okta-sign-in-widget {
+  background: url ('logo.png');
+}
+
+.beacon-container {
+  background: url ('logo.png');
+}

@@ -1,0 +1,22 @@
+.productList {
+   justify-content: center;
+}
+.cart {
+   display: flex;  
+   margin-right: 1em;   
+}
+
+.cart-contain {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid #000;
+}
+.c-clear {
+   display: flex;
+   justify-content: center;
+   align-self: center;
+}
+.c-clear .fa {
+   padding: 0 .5em 0 .5em;
+}

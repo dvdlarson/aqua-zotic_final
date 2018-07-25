@@ -1,0 +1,30 @@
+.productCard {
+   display: flex;
+   flex-direction: column;
+   border: 1px solid #000;
+   margin: 2em;
+   background: rgb(231, 231, 231);
+}
+.thumb {
+   display: flex;
+   width: 5em;
+   height: 5em;
+}
+.top {
+   display: flex;
+   background: rgb(253, 251, 251);
+}
+.bod {
+   display: flex;
+   flex-grow: 2;
+   padding: 1em;
+}
+.bot {
+   display: flex;
+   margin-top:.5em;
+}
+.myb {
+   border-radius: 15em;
+   width: 2.5em;
+   background: rgb(255, 255, 255);
+}
