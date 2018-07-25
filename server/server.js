@@ -22,8 +22,8 @@ const port = process.env.PORT || 8080;
 // ================================================================================================
 console.log("starting server");
 // Set up Mongoose
-//mongoose.connect(isDev ? config.db_dev : config.db);
-//mongoose.Promise = global.Promise;
+mongoose.connect('mongodb://heroku_35sfz258:ogc1bb2u2a11ogbvdm18prldp0@ds253821.mlab.com:53821/heroku_35');
+mongoose.Promise = global.Promise;
 
 const app = express();
 app.use(express.urlencoded({ extended: true }));
